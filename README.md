@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on first exams. During free times I'm working on building game developing (at the moment using Unity Engine) skills, also thanks to a online course powered by GameDev.tv 🌱 I’m currently attending a master degree course in IT engineering at University of Parma, focusing on Artificial Intelligence <br>💬 Ask me about my projects!
+🔭 I’m currently working on first exams. During free time I'm working on building game developing (at the moment using Unity Engine) skills, also thanks to a online course powered by GameDev.tv 🌱 I’m currently attending a master degree course in IT engineering at University of Parma, focusing on Artificial Intelligence <br>💬 Ask me about my projects!
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/andrea.ado) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adorsennn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrea-adorni-040a20175) 
