@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Attending courses of second year's master degree. During free time I'm working on building game developing (at the moment using Unity Engine) skills, also thanks to a online course powered by GameDev.tv. 
+🔭 Attending courses of second year's master degree. 
 🌱 I’m currently attending a master degree course in IT engineering at University of Parma, focusing on Artificial Intelligence <br>
 💬 Ask me about my projects!
 
